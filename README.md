@@ -19,7 +19,7 @@ python cscan.py -h
 >SCAN FOR HOSTS AND PORTS
 >
 >optional arguments:
->  -h, --help            show this help message and exit
+>  -h, --help            show this help message and exit<br/>
 >  -i ICMP, --icmp ICMP  -i ip, ICMP scan for host
 >  -ts TCP, --tcp TCP    -ts ip, TCP SYN scan for host
 >  -p PORT, --port PORT  -p port, scan host port; E.g:-p 80,8080,3306 or -p default
