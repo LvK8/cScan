@@ -20,8 +20,8 @@ python cscan.py -h
 >
 >optional arguments:
 >  -h, --help            show this help message and exit<br/>
->  -i ICMP, --icmp ICMP  -i ip, ICMP scan for host
->  -ts TCP, --tcp TCP    -ts ip, TCP SYN scan for host
+>  -i ICMP, --icmp ICMP  -i ip, ICMP scan for host<br/>
+>  -ts TCP, --tcp TCP    -ts ip, TCP SYN scan for host<br/>
 >  -p PORT, --port PORT  -p port, scan host port; E.g:-p 80,8080,3306 or -p default
 * C段主机探测
 icmp方式
